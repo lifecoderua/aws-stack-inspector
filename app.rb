@@ -1,3 +1,4 @@
+require 'dotenv/load'
 require 'aws-sdk'
 
-puts('Uplink pair service started')
+p '...Uplink pair service started!'
